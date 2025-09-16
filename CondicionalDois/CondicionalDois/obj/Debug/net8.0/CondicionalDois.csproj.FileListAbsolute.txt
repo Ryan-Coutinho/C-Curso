@@ -1,0 +1,14 @@
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalDois\CondicionalDois\bin\Debug\net8.0\CondicionalDois.exe
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalDois\CondicionalDois\bin\Debug\net8.0\CondicionalDois.deps.json
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalDois\CondicionalDois\bin\Debug\net8.0\CondicionalDois.runtimeconfig.json
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalDois\CondicionalDois\bin\Debug\net8.0\CondicionalDois.dll
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalDois\CondicionalDois\bin\Debug\net8.0\CondicionalDois.pdb
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalDois\CondicionalDois\obj\Debug\net8.0\CondicionalDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalDois\CondicionalDois\obj\Debug\net8.0\CondicionalDois.AssemblyInfoInputs.cache
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalDois\CondicionalDois\obj\Debug\net8.0\CondicionalDois.AssemblyInfo.cs
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalDois\CondicionalDois\obj\Debug\net8.0\CondicionalDois.csproj.CoreCompileInputs.cache
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalDois\CondicionalDois\obj\Debug\net8.0\CondicionalDois.dll
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalDois\CondicionalDois\obj\Debug\net8.0\refint\CondicionalDois.dll
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalDois\CondicionalDois\obj\Debug\net8.0\CondicionalDois.pdb
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalDois\CondicionalDois\obj\Debug\net8.0\CondicionalDois.genruntimeconfig.cache
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalDois\CondicionalDois\obj\Debug\net8.0\ref\CondicionalDois.dll
