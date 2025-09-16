@@ -1,0 +1,14 @@
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalUm\CondicionalUm\bin\Debug\net8.0\CondicionalUm.exe
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalUm\CondicionalUm\bin\Debug\net8.0\CondicionalUm.deps.json
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalUm\CondicionalUm\bin\Debug\net8.0\CondicionalUm.runtimeconfig.json
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalUm\CondicionalUm\bin\Debug\net8.0\CondicionalUm.dll
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalUm\CondicionalUm\bin\Debug\net8.0\CondicionalUm.pdb
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalUm\CondicionalUm\obj\Debug\net8.0\CondicionalUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalUm\CondicionalUm\obj\Debug\net8.0\CondicionalUm.AssemblyInfoInputs.cache
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalUm\CondicionalUm\obj\Debug\net8.0\CondicionalUm.AssemblyInfo.cs
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalUm\CondicionalUm\obj\Debug\net8.0\CondicionalUm.csproj.CoreCompileInputs.cache
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalUm\CondicionalUm\obj\Debug\net8.0\CondicionalUm.dll
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalUm\CondicionalUm\obj\Debug\net8.0\refint\CondicionalUm.dll
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalUm\CondicionalUm\obj\Debug\net8.0\CondicionalUm.pdb
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalUm\CondicionalUm\obj\Debug\net8.0\CondicionalUm.genruntimeconfig.cache
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalUm\CondicionalUm\obj\Debug\net8.0\ref\CondicionalUm.dll
