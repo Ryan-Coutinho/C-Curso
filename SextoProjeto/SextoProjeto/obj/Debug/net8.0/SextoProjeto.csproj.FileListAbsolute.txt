@@ -1,0 +1,14 @@
+C:\Users\ryanc\OneDrive\Desktop\Course\SextoProjeto\SextoProjeto\obj\Debug\net8.0\SextoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanc\OneDrive\Desktop\Course\SextoProjeto\SextoProjeto\obj\Debug\net8.0\SextoProjeto.AssemblyInfoInputs.cache
+C:\Users\ryanc\OneDrive\Desktop\Course\SextoProjeto\SextoProjeto\obj\Debug\net8.0\SextoProjeto.AssemblyInfo.cs
+C:\Users\ryanc\OneDrive\Desktop\Course\SextoProjeto\SextoProjeto\obj\Debug\net8.0\SextoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\ryanc\OneDrive\Desktop\Course\SextoProjeto\SextoProjeto\bin\Debug\net8.0\SextoProjeto.exe
+C:\Users\ryanc\OneDrive\Desktop\Course\SextoProjeto\SextoProjeto\bin\Debug\net8.0\SextoProjeto.deps.json
+C:\Users\ryanc\OneDrive\Desktop\Course\SextoProjeto\SextoProjeto\bin\Debug\net8.0\SextoProjeto.runtimeconfig.json
+C:\Users\ryanc\OneDrive\Desktop\Course\SextoProjeto\SextoProjeto\bin\Debug\net8.0\SextoProjeto.dll
+C:\Users\ryanc\OneDrive\Desktop\Course\SextoProjeto\SextoProjeto\bin\Debug\net8.0\SextoProjeto.pdb
+C:\Users\ryanc\OneDrive\Desktop\Course\SextoProjeto\SextoProjeto\obj\Debug\net8.0\SextoProjeto.dll
+C:\Users\ryanc\OneDrive\Desktop\Course\SextoProjeto\SextoProjeto\obj\Debug\net8.0\refint\SextoProjeto.dll
+C:\Users\ryanc\OneDrive\Desktop\Course\SextoProjeto\SextoProjeto\obj\Debug\net8.0\SextoProjeto.pdb
+C:\Users\ryanc\OneDrive\Desktop\Course\SextoProjeto\SextoProjeto\obj\Debug\net8.0\SextoProjeto.genruntimeconfig.cache
+C:\Users\ryanc\OneDrive\Desktop\Course\SextoProjeto\SextoProjeto\obj\Debug\net8.0\ref\SextoProjeto.dll
