@@ -1,0 +1,14 @@
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalCinco\CondicionalCinco\bin\Debug\net8.0\CondicionalCinco.exe
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalCinco\CondicionalCinco\bin\Debug\net8.0\CondicionalCinco.deps.json
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalCinco\CondicionalCinco\bin\Debug\net8.0\CondicionalCinco.runtimeconfig.json
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalCinco\CondicionalCinco\bin\Debug\net8.0\CondicionalCinco.dll
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalCinco\CondicionalCinco\bin\Debug\net8.0\CondicionalCinco.pdb
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalCinco\CondicionalCinco\obj\Debug\net8.0\CondicionalCinco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalCinco\CondicionalCinco\obj\Debug\net8.0\CondicionalCinco.AssemblyInfoInputs.cache
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalCinco\CondicionalCinco\obj\Debug\net8.0\CondicionalCinco.AssemblyInfo.cs
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalCinco\CondicionalCinco\obj\Debug\net8.0\CondicionalCinco.csproj.CoreCompileInputs.cache
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalCinco\CondicionalCinco\obj\Debug\net8.0\CondicionalCinco.dll
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalCinco\CondicionalCinco\obj\Debug\net8.0\refint\CondicionalCinco.dll
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalCinco\CondicionalCinco\obj\Debug\net8.0\CondicionalCinco.pdb
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalCinco\CondicionalCinco\obj\Debug\net8.0\CondicionalCinco.genruntimeconfig.cache
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalCinco\CondicionalCinco\obj\Debug\net8.0\ref\CondicionalCinco.dll
