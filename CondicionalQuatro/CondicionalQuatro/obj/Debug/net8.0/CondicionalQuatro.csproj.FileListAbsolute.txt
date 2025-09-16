@@ -1,0 +1,14 @@
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalQuatro\CondicionalQuatro\bin\Debug\net8.0\CondicionalQuatro.exe
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalQuatro\CondicionalQuatro\bin\Debug\net8.0\CondicionalQuatro.deps.json
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalQuatro\CondicionalQuatro\bin\Debug\net8.0\CondicionalQuatro.runtimeconfig.json
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalQuatro\CondicionalQuatro\bin\Debug\net8.0\CondicionalQuatro.dll
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalQuatro\CondicionalQuatro\bin\Debug\net8.0\CondicionalQuatro.pdb
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalQuatro\CondicionalQuatro\obj\Debug\net8.0\CondicionalQuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalQuatro\CondicionalQuatro\obj\Debug\net8.0\CondicionalQuatro.AssemblyInfoInputs.cache
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalQuatro\CondicionalQuatro\obj\Debug\net8.0\CondicionalQuatro.AssemblyInfo.cs
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalQuatro\CondicionalQuatro\obj\Debug\net8.0\CondicionalQuatro.csproj.CoreCompileInputs.cache
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalQuatro\CondicionalQuatro\obj\Debug\net8.0\CondicionalQuatro.dll
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalQuatro\CondicionalQuatro\obj\Debug\net8.0\refint\CondicionalQuatro.dll
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalQuatro\CondicionalQuatro\obj\Debug\net8.0\CondicionalQuatro.pdb
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalQuatro\CondicionalQuatro\obj\Debug\net8.0\CondicionalQuatro.genruntimeconfig.cache
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalQuatro\CondicionalQuatro\obj\Debug\net8.0\ref\CondicionalQuatro.dll
