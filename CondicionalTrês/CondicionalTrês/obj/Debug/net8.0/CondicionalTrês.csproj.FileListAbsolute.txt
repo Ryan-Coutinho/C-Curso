@@ -1,0 +1,14 @@
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalTrês\CondicionalTrês\bin\Debug\net8.0\CondicionalTrês.exe
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalTrês\CondicionalTrês\bin\Debug\net8.0\CondicionalTrês.deps.json
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalTrês\CondicionalTrês\bin\Debug\net8.0\CondicionalTrês.runtimeconfig.json
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalTrês\CondicionalTrês\bin\Debug\net8.0\CondicionalTrês.dll
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalTrês\CondicionalTrês\bin\Debug\net8.0\CondicionalTrês.pdb
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalTrês\CondicionalTrês\obj\Debug\net8.0\CondicionalTrês.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalTrês\CondicionalTrês\obj\Debug\net8.0\CondicionalTrês.AssemblyInfoInputs.cache
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalTrês\CondicionalTrês\obj\Debug\net8.0\CondicionalTrês.AssemblyInfo.cs
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalTrês\CondicionalTrês\obj\Debug\net8.0\CondicionalTrês.csproj.CoreCompileInputs.cache
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalTrês\CondicionalTrês\obj\Debug\net8.0\CondicionalTrês.dll
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalTrês\CondicionalTrês\obj\Debug\net8.0\refint\CondicionalTrês.dll
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalTrês\CondicionalTrês\obj\Debug\net8.0\CondicionalTrês.pdb
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalTrês\CondicionalTrês\obj\Debug\net8.0\CondicionalTrês.genruntimeconfig.cache
+C:\Users\ryanc\OneDrive\Desktop\Course\CondicionalTrês\CondicionalTrês\obj\Debug\net8.0\ref\CondicionalTrês.dll

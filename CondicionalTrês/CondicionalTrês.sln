@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CondicionalTrês", "CondicionalTrês\CondicionalTrês.csproj", "{31606425-77A1-4AF1-810F-FD9ABA9AC3CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31606425-77A1-4AF1-810F-FD9ABA9AC3CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31606425-77A1-4AF1-810F-FD9ABA9AC3CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31606425-77A1-4AF1-810F-FD9ABA9AC3CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31606425-77A1-4AF1-810F-FD9ABA9AC3CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4540710E-2C5E-4DCA-B97E-C8884E55097B}
+	EndGlobalSection
+EndGlobal
